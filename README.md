@@ -28,7 +28,9 @@ I focus on making systems work in reality, not just in demos
 # 🚀 Key Projects
 
 - AI Health Intelligence System  
-- Full-stack Coding Platform  
+- Full-stack Coding Platform
+- spatialAuth
+- Cloud_Storage
 
 ---
 
