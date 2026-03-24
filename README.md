@@ -25,19 +25,10 @@ I focus on making systems work in reality, not just in demos
 
 ---
 
-# 🔝 Highlighted Projects
+# 🚀 Key Projects
 
-- 🚀 [AI Health Intelligence System](https://github.com/prayag-1771)  
-  Multimodal AI system using real-world signals (camera, environment, etc.) for health insights  
-
-- 💻 [Full-stack Coding Platform](https://github.com/prayag-1771)  
-  Online judge + AI-powered problem generation + classroom system  
-
-- ⚙️ Backend Systems / APIs  
-  FastAPI / Node-based scalable backend services  
-
-- 🧠 ML / AI Experiments  
-  Applied machine learning, signal processing, and model experimentation  
+- AI Health Intelligence System  
+- Full-stack Coding Platform  
 
 ---
 
@@ -60,3 +51,9 @@ I focus on making systems work in reality, not just in demos
 ![](https://github-readme-stats.vercel.app/api?username=prayag-1771&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=prayag-1771&theme=dark&hide_border=false)
+
+---
+
+# 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=prayag-1771&limit=5&theme=dark&combine_all_yearly_contributions=true)
